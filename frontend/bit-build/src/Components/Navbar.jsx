@@ -95,12 +95,7 @@ const TempNavbar = () => {
               <div className="each-item flex justify-center items-center  space-x-4 lg:space-x-2  xl:space-x-6 pr-2">
                 <div className="flex justify-center items-center">
                 
-                    <Link to="frontend/cart">
-                      <div className="p-2 text-xs sm:text-lg  bg-[#1F2937] rounded-md text-white">
-                      <IoPerson />
-
-                      </div>
-                    </Link>
+                  
     
                 </div>
                     
